@@ -1,7 +1,8 @@
 #include <cstdio>
 #include <queue>
 #include <map>
- 
+
+//ez of ezs
 int n, e, p, q;
  
 int main(){
